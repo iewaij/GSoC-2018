@@ -11,6 +11,8 @@ Documentation has always been important for users, and could never be enough.
 
 `Optim.jl` has good documentation but lacks some examples. I built two notebooks using `Optim.jl` to show the usage of maximum likelihood and optimization trace. These notebooks can be found in `/Notebooks`.
 
+![trace](/trace.png)
+
 `LsqFit.jl` is the most basic package in `JuliaNLSolvers`, the documentation is the `README.md` in the GitHub page and covers only the usage of functions. I made a documentation covering introduction, getting started, and tutorials to help users understand how and why behind the code. These documentation is generated using `Documenter.jl`. The source code and updated `README.md` could be found in `/LsqFit.jl/docs` and `/LsqFit.jl`. Part of the documentation is [online](https://julianlsolvers.github.io/LsqFit.jl/latest/) since some codes have not been merged.
 
 ### Part 2: Functionality
